@@ -165,3 +165,7 @@ angular.module('ui.bootstrap.collapse', ['ui.bootstrap.transition'])
       }
     };
   }]);
+  
+  if(module && module.exports){
+	  module.exports = 'ui.bootstrap';
+  }
