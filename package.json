@@ -1,5 +1,5 @@
 {
-  "name": "ui-bootstrap-collapse",
+  "name": "@nib/ui-bootstrap-collapse",
   "version": "0.12.1",
   "description": "Bower repository for ui bootstrap collapse",
   "main": "ui-bootstrap-collapse.js"
